@@ -1,6 +1,8 @@
 # HEALTH_GEEK
 
 # MULTIVITAMIN CONTENTS, THEIR ACTUAL DV% AND TOXIC LEVEL %
+> The values are not per Tab, its per Serving (in my case 2 tabs) just to be clear.
+
 Personally I have always been a Geek when comes to Health , But thanks to my Bad Memory I cannot remember them all, just like most of them out there(If you do Pat urself on the back)
 
 
@@ -18,6 +20,7 @@ COL3 - Original Intake Daily Value
 COL4 - Upper limit (Dangerous amount)
 
 I have bought a Multivitamin from a company called DYMATIZE which made me doubt the mutlivitamins and their effectiveness 
+
 
 NOTE: These values are taken from the website https://ods.od.nih.gov/factsheets/list-all/     U.S. Department of Health & Human Services 
 National Institutes of Health  which is like a paragon of Health Info websites
